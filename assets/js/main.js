@@ -6,10 +6,11 @@ const init = () => {
         loadingDiv.style.display = 'none';
         const contentDiv = document.querySelector('#content-div');
         contentDiv.innerHTML = `
-            <h1>About KVonGit</h1>
+            <h1>KVonGit</h1>
+            <h2>About Me</h2>
             <p>Hi, I'm KV! I'm usually messing around with Quest code.</p>
-            <hr/>
-            <h1>Links</h1>
+            <br/>
+            <h2>Links</h2>
             <ul>
             <li><a href="https://github.com/KVonGit/quest5-stuff">Quest 5 Stuff</a></li>
             <li><a href="https://github.com/textadventures/quest">textadventures/quest</a></li>`;
