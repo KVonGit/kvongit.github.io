@@ -31,7 +31,7 @@ const init = () => {
                 <td><button onclick="window.open('https://www.axeuk.com/ubb/');">Axe Forum Archive (2000-2003)</button></td>
             </tr>
             <tr>
-                <td><button onclick="window.open('https://discord.com/channels/1278365322054996018/1314620834467545200');">#quest channel on Discord</button> <= <button onclick="window.open('https://discord.gg/vME4fcdrEp');">Non-expiring invite</button></td>
+                <td><button onclick="window.open('https://discord.com/channels/1278365322054996018/1314620834467545200');">#quest channel on Discord</button> <button onclick="window.open('https://discord.gg/vME4fcdrEp');">Non-expiring invite</button></td>
             </tr>
         </tbody>
     </table>`;
