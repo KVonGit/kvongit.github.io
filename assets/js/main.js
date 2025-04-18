@@ -22,7 +22,7 @@ const init = () => {
                 <td><button onclick="window.open('http://docs.textadventures.co.uk/quest/tutorial/');">Quest Tutorial</button></td>
             </tr>
             <tr>
-                <td><button onclick="window.open('https://github.com/ThePix/quest/wiki');">Pixie's Wiki</button></td>
+                <td><button onclick="window.open('https://github.com/ThePix/quest/wiki');">Pixie's Quest 5 Wiki</button></td>
             </tr>
             <tr>
                 <td><button onclick="window.open('https://archive.textadventures.co.uk/forum');">textadventures Forum Archive (2003-2024)</button></td>
