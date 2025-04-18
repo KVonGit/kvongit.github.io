@@ -3,7 +3,7 @@ const init = () => {
     loadingDiv.style.display = 'none';
     const contentDiv = document.querySelector('#content-div');
     contentDiv.innerHTML = `
-        <h1>KVonGit</h1>
+        <h1><a href="https://github.com/KVonGit">KVonGit</a></h1>
         <h2>About Me</h2>
         <p>Hi, I'm KV! I'm usually messing around with Quest code.</p><hr/>
         <h2>Links</h2>
