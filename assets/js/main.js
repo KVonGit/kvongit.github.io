@@ -10,28 +10,22 @@ const init = () => {
         <table>
           <tbody>
             <tr>
-                <td><button onclick="window.open('https://github.com/KVonGit/quest5-stuff');">Quest 5 Stuff</button></td>
+                <td><button onclick="window.open('https://textadventures.co.uk/');">textadventures.co.uk</button> <button onclick="window.open('https://textadventures.co.uk/quest/');">/quest</button> <button onclick="window.open('https://textadventures.co.uk/create/');">/create</button> <button onclick="window.open('https://archive.textadventures.co.uk/forum');">Forum (Archive)</button> <button onclick="window.open('https://www.questviva.com/');">Viva</button></td>
             </tr>
             <tr>
-                <td><button onclick="window.open('https://github.com/textadventures/quest');">textadventures/quest</button> <button onclick="window.open('https://github.com/textadventures/quest/discussions');">/Discussions</button> <button onclick="window.open('https://github.com/textadventures/quest/issues/');">/Issues</button></td>
+                <td><button onclick="window.open('http://docs.textadventures.co.uk/quest/');">Quest Documentation</button> <button onclick="window.open('http://docs.textadventures.co.uk/quest/tutorial/');">Quest Tutorial</button> <button onclick="window.open('https://www.axeuk.com/ubb/');">Axe Forum (Archive)</button></td>
             </tr>
             <tr>
-                <td><button onclick="window.open('http://docs.textadventures.co.uk/quest/');">Quest Documentation</button></td>
-            </tr>
-            <tr>
-                <td><button onclick="window.open('http://docs.textadventures.co.uk/quest/tutorial/');">Quest Tutorial</button></td>
-            </tr>
-            <tr>
-                <td><button onclick="window.open('https://github.com/ThePix/quest/wiki');">Pixie's Quest 5 Wiki</button></td>
-            </tr>
-            <tr>
-                <td><button onclick="window.open('https://archive.textadventures.co.uk/forum');">textadventures Forum Archive (2003-2024)</button></td>
-            </tr>
-            <tr>
-                <td><button onclick="window.open('https://www.axeuk.com/ubb/');">Axe Forum Archive (2000-2003)</button></td>
+                <td><button onclick="window.open('https://github.com/textadventures/quest');">github.com/textadventures/quest</button> <button onclick="window.open('https://github.com/textadventures/quest/discussions');">/Discussions</button> <button onclick="window.open('https://github.com/textadventures/quest/issues/');">/Issues</button></td>
             </tr>
             <tr>
                 <td><button onclick="window.open('https://discord.com/channels/1278365322054996018/1314620834467545200');">#quest channel on Discord</button> <button onclick="window.open('https://discord.gg/vME4fcdrEp');">Non-expiring invite</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="window.open('https://github.com/ThePix/quest/wiki');">Pixie's Quest 5 Wiki</button> <button onclick="window.open('https://github.com/ThePix/QuestJS');">github.com/ThePix/QuestJS</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="window.open('https://github.com/KVonGit/quest5-stuff');">Quest 5 Stuff</button> <button onclick="window.open('https://www.reddit.com/r/quest_foo/');">r/quest_foo</button> <button onclick="window.open('https://textmisadventures.com/');">TextMisadventures.com</button></td>
             </tr>
         </tbody>
     </table>`;
