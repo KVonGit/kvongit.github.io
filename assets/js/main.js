@@ -27,6 +27,9 @@ const init = () => {
             <tr>
                 <td><button onclick="window.open('https://github.com/KVonGit/quest5-stuff/wiki');">Quest 5 Stuff Wiki</button> <button onclick="window.open('https://www.reddit.com/r/quest_foo/');">r/quest_foo</button> <button onclick="window.open('https://textmisadventures.com/');">TextMisadventures.com</button></td>
             </tr>
+            <tr>
+                <td><button onclick="window.open('https://discord.com/channels/1325203278778073160/1325355763182473256');">#general-chat channel on the TextMisadventures Discord server</button></td>
+            </tr>
         </tbody>
     </table>`;
     contentDiv.style.display = 'block';
