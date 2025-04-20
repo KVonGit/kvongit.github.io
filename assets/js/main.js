@@ -25,7 +25,7 @@ const init = () => {
                 <td><button onclick="window.open('https://github.com/ThePix/quest/wiki');">Pixie's Quest 5 Wiki</button> <button onclick="window.open('https://github.com/ThePix/QuestJS');">github.com/ThePix/QuestJS</button></td>
             </tr>
             <tr>
-                <td><button onclick="window.open('https://github.com/KVonGit/quest5-stuff');">Quest 5 Stuff</button> <button onclick="window.open('https://www.reddit.com/r/quest_foo/');">r/quest_foo</button> <button onclick="window.open('https://textmisadventures.com/');">TextMisadventures.com</button></td>
+                <td><button onclick="window.open('https://github.com/KVonGit/quest5-stuff/wiki');">Quest 5 Stuff Wiki</button> <button onclick="window.open('https://www.reddit.com/r/quest_foo/');">r/quest_foo</button> <button onclick="window.open('https://textmisadventures.com/');">TextMisadventures.com</button></td>
             </tr>
         </tbody>
     </table>`;
